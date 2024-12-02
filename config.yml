@@ -36,7 +36,7 @@ params:
     disableThemeToggle: true
     ShowShareButtons: false
     ShowReadingTime: false
-    disableSpecial1stPost: true
+    disableSpecial1stPost: trueAden
     disableAnchoredHeadings: true
     ShowPostNavLinks: false
     ShowBreadCrumbs: false
@@ -52,8 +52,8 @@ params:
     math: true
     profileMode:
           enabled: true
-          title: yersd
-          subtitle: "."
+          title: Professor Dr von Igelfeld
+          subtitle: "Aden"
           imageUrl: "picture.jpeg"
           imageWidth: 160
           imageHeight: 160

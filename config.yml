@@ -54,7 +54,6 @@ params:
           enabled: true
           title: Articles and Handouts in Math Compietitons
           subtitle: "!!!"
-          imageUrl: "picture.jpeg"
           imageWidth: 160
           imageHeight: 160
           buttons:

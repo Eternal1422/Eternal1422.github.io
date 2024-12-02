@@ -52,8 +52,8 @@ params:
     math: true
     profileMode:
           enabled: true
-          title: Professor Dr von Igelfeld
-          subtitle: "Aden"
+          title: Articles and Handouts in Math Compietitons
+          subtitle: "!!!"
           imageUrl: "picture.jpeg"
           imageWidth: 160
           imageHeight: 160
